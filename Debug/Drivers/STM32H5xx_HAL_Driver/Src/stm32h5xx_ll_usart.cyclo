@@ -1,0 +1,14 @@
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_usart.h:664:26:LL_USART_IsEnabled	2
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_usart.h:1230:22:LL_USART_SetPrescaler	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_usart.h:1310:22:LL_USART_SetStopBitsLength	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_usart.h:1735:22:LL_USART_SetHWFlowCtrl	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_usart.h:1886:22:LL_USART_SetBaudRate	4
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:1957:22:LL_APB1_GRP1_ForceReset	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:2044:22:LL_APB1_GRP1_ReleaseReset	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:2515:22:LL_APB2_GRP1_ForceReset	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:2554:22:LL_APB2_GRP1_ReleaseReset	1
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_ll_usart.c:140:13:LL_USART_DeInit	7
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_ll_usart.c:283:13:LL_USART_Init	10
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_ll_usart.c:441:6:LL_USART_StructInit	1
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_ll_usart.c:468:13:LL_USART_ClockInit	2
+../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_ll_usart.c:515:6:LL_USART_ClockStructInit	1

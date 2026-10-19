@@ -1,0 +1,7 @@
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_rcc.h:3023:22:LL_RCC_SetClockSource	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_rcc.h:3134:22:LL_RCC_SetUARTClockSource	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:993:22:LL_AHB2_GRP1_EnableClock	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:1683:22:LL_APB1_GRP1_EnableClock	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_usart.h:639:22:LL_USART_Enable	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_usart.h:2678:22:LL_USART_ConfigAsyncMode	1
+../Core/Src/usart.c:28:6:MX_UART5_Init	1
